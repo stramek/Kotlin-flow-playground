@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinFlow</string>
+    <string name="loading_message">Loading…</string>
+    <string name="weather_template">City: %1$s Temp: %2$.1f</string>
+</resources>
